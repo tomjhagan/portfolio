@@ -3,22 +3,22 @@
 #### Technical Skills: Python, Keras, Tensorflow, SQL, AWS 
 
 ## Education
-- Data Science Career Accelerator | University of Cambridge (_Jul 2025_)
-- Chartered Accountant | ICAS (_Aug 2020_)
-- Chemistry BSc | Cardiff University (_Jun 2016_)
+- Data Science Career Accelerator | University of Cambridge (_Jul '25_)
+- Chartered Accountant | ICAS (_Aug '20_)
+- Chemistry BSc | Cardiff University (_Jun '16_)
 
 ## Work Experience
-**Corporate Finance Associate at Stout Investment Bank (_Aug 2024 - Feb 2025_)**
+**Corporate Finance Associate | Stout Investment Bank (_Aug '24 - Feb '25_)**
 - Conducted financial modelling and valuation of a large European infrastructure company
 - Implemented sensitivities based on business performance and macroeconomic environment
   
-**Investment Banking Associate at Natrium Capital (_Sep 2021 - Dec 2023_)**
+**Investment Banking Associate | Natrium Capital (_Sep '21 - Dec '23_)**
 - Created advanced financial models and conducted valuation and synergy analyses
   
-**Assurance Senior Associate at PwC (_Sep 2017 - Sep 2021_)**
+**Assurance Senior Associate | PwC (_Sep '17 - Sep '21_)**
 - Analysed client data to assess financial performance, compliance, and risk exposure
   
-**Credit Risk Analyst at Nationwide Building Society (_Jun 2016 - Dec 2016_)**
+**Credit Risk Analyst | Nationwide Building Society (_Jun '16 - Dec '16_)**
 - Used SAS and SQL to build a KPI tracking dashboard to monitor portfolio health and risk metrics
 
 ## Projects
