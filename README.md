@@ -23,7 +23,7 @@
 
 ## Projects
 ### Analysing quarterly earnings call transcripts for indicators of financial risk
-NLP task utilising LangChain to build RAG and Agent pipelines for the analysis of transcript of quarterly earnings calls of globally significant banks, and identification of any risk relevant to the Prudential Risk Authority.
+Employer project with the Bank of England. NLP task for analysing transcripts of quarterly earnings calls of globally significant banks, and identification of any risk relevant to the Prudential Risk Authority. Utilised LangChain to build RAG and Agent pipelines with LLMs to detect risk from unstructured text.
 
 ### Using time series analysis for sales and demand forecasting
 Forecasting demand based on historical book sales using Auto-ARIMA, XGBoost and LSTM models 
