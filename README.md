@@ -26,16 +26,16 @@
 Employer project with the Bank of England. NLP task for analysing transcripts of quarterly earnings calls of globally significant banks, and identification of any risk relevant to the Prudential Risk Authority. Utilised LangChain to build RAG and Agent pipelines with LLMs to detect risk from unstructured text.
 
 ### Using time series analysis for sales and demand forecasting
-Forecasting demand based on historical book sales using Auto-ARIMA, XGBoost and LSTM models 
+Using historical book sales data to forecast future demand and sales patterns. Performed data exploration and feature engineering to support time series analysis using ARIMA, XGBoost, LSTM and hybrid methods, and validated the models to ensure their accuracy.
 
 ### Applying NLP for topic modelling and sentiment analysis from online reviews
-Conducted sentiment analysis on reviews for a large gym chain using large language models to inform strategic actions.
+NLP task on TrustPilot and Google reviews for a large gym chain, including topic modelling using BerTopic, data visualisation, sentiment analysis and using large language models to inform strategic actions. 
 
 ### Applying supervised learning to predict student dropout
-Developed neural network and XGBoost models to predict student dropout risk using educational datasets.
+Using an educational dataset including applicant and course information, student and engagement data & academic performance data to develop a series of supervised learning models to predict students at risk of dropping out. Includes feature engineering and processing and development of neural network and XGBoost models.
 
 ### Customer segmentation with clustering
-Applied K-means and hierarchical clustering to retail data to optimise marketing effectiveness.
+Developed customer segmentation analysis on data from an e-commerce company to understand its customers better and improve marketing efficiency. Employed preprocessing and feature engineering, dimension reduction, and customer segmentation with statistical and machine learning methods including K-means and hierarchical clustering.
 
 ### Detecting the anomalous activity of a ship’s engine
-Used One-Class SVM and Isolation Forest to detect vessels requiring maintenance from shipping telemetry data.
+Anomaly detection project using shipping telemetry data to protect a company’s shipping fleet by evaluating engine functionality. Implementing data exploration, preprocessing and feature engineering, and detect possible anomalies with methods including One-Class SVM and Isolation Forest.
