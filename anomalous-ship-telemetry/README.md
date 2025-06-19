@@ -5,4 +5,4 @@ This project uses both statistical and machine learning methods to identify anom
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-The notebook can be found [here](https://github.com/tomjhagan/portfolio/tree/main/anomalous-ship-telemetry/notebooks).
+The notebook can be found [here](https://github.com/tomjhagan/portfolio/blob/main/anomalous-ship-telemetry/notebooks/eda_and_model.ipynb).
