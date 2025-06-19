@@ -37,5 +37,5 @@ Using an educational dataset including applicant and course information, student
 ### Customer segmentation with clustering
 Developed customer segmentation analysis on data from an e-commerce company to understand its customers better and improve marketing efficiency. Employed preprocessing and feature engineering, dimension reduction, and customer segmentation with statistical and machine learning methods including K-means and hierarchical clustering.
 
-### Detecting the anomalous activity of a ship’s engine
+### [Detecting the anomalous activity of a ship’s engine](https://github.com/tomjhagan/portfolio/tree/main/anomalous-ship-telemetry)
 Anomaly detection project using shipping telemetry data to protect a company’s shipping fleet by evaluating engine functionality. Implementing data exploration, preprocessing and feature engineering, and detect possible anomalies with methods including One-Class SVM and Isolation Forest.
