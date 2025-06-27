@@ -4,4 +4,4 @@ Customer segmentation analysis on data from an e-commerce company to understand 
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-The notebook can be found here.
+The notebook can be found [here](https://github.com/tomjhagan/portfolio/blob/main/customer-segmentation-clustering/notebooks/eda_and_model.ipynb).
