@@ -21,7 +21,7 @@
 **Credit Risk Analyst | Nationwide Building Society (_Jun '16 - Dec '16_)**
 - Used SAS and SQL to build a KPI tracking dashboard to monitor portfolio health and risk metrics
 
-## Projects
+## Data Science Projects
 ### Analysing quarterly earnings call transcripts for indicators of financial risk
 Employer project with the Bank of England. NLP task for analysing transcripts of quarterly earnings calls of globally significant banks, and identification of any risk relevant to the Prudential Risk Authority. Utilised LangChain to build RAG and Agent pipelines with LLMs to detect risk from unstructured text.
 
