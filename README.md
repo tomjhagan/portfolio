@@ -34,7 +34,7 @@ NLP task on TrustPilot and Google reviews for a large gym chain, including topic
 ### Applying supervised learning to predict student dropout
 Using an educational dataset including applicant and course information, student and engagement data & academic performance data to develop a series of supervised learning models to predict students at risk of dropping out. Includes feature engineering and processing and development of neural network and XGBoost models.
 
-### Customer segmentation with clustering
+### [Customer segmentation with clustering](https://github.com/tomjhagan/portfolio/tree/main/customer-segmentation-clustering)
 Developed customer segmentation analysis on data from an e-commerce company to understand its customers better and improve marketing efficiency. Employed preprocessing and feature engineering, dimension reduction, and customer segmentation with statistical and machine learning methods including K-means and hierarchical clustering.
 
 ### [Detecting the anomalous activity of a ship’s engine](https://github.com/tomjhagan/portfolio/tree/main/anomalous-ship-telemetry)
