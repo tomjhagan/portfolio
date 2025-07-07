@@ -3,9 +3,9 @@
 #### Technical Skills: Python, Keras, Tensorflow, SQL, AWS 
 
 ## Education
-* Data Science Career Accelerator | _University of Cambridge (Jul '25)_
-* Chartered Accountant | _ICAS (Aug '20)_
-* BSc Chemistry | _Cardiff University (Jun '16)_
+* Data Science Career Accelerator, University of Cambridge (Jul '25)
+* Chartered Accountant, ICAS (Aug '20)
+* BSc Chemistry, Cardiff University (Jun '16)
 
 ## Work Experience
 **Corporate Finance Associate | Stout Investment Bank (_Aug '24 - Feb '25_)**
