@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Keras, Tensorflow, SQL, AWS 
 
 ## Education
-* Data Science with Machine Learning & AI Career Accelerator | _University of Cambridge (Jul '25)_
+* Data Science Career Accelerator | _University of Cambridge (Jul '25)_
 * Chartered Accountant | _ICAS (Aug '20)_
 * BSc Chemistry | _Cardiff University (Jun '16)_
 
