@@ -31,7 +31,7 @@ Using historical book sales data to forecast future demand and sales patterns. P
 ### Applying NLP for topic modelling and sentiment analysis from online reviews
 NLP task on TrustPilot and Google reviews for a large gym chain, including topic modelling using BerTopic, data visualisation, sentiment analysis and using large language models to inform strategic actions. 
 
-### [Applying supervised learning to predict student dropout](https://github.com/tomjhagan/portfolio/tree/main/predicting-student-dropout)
+### [Predicting student dropout with supervised learning](https://github.com/tomjhagan/portfolio/tree/main/predicting-student-dropout)
 Using an educational dataset including applicant and course information, student and engagement data & academic performance data to develop a series of supervised learning models to predict students at risk of dropping out. Includes feature engineering and processing and development of neural network and XGBoost models.
 
 ### [Customer segmentation with clustering](https://github.com/tomjhagan/portfolio/tree/main/customer-segmentation-clustering)
