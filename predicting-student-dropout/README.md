@@ -3,4 +3,4 @@ Using an educational dataset including applicant and course information, student
 ## Instructions for Running Python Notebooks Locally
 Due to data confidentiality, the data csv cannot be hosted for free on Github, so you will be unable to run locally. A full description of the data is contained within the notebook.
 
-The notebook can be found [here](https://github.com/tomjhagan/portfolio/blob/main/customer-segmentation-clustering/notebooks/eda_and_model.ipynb).
+The notebook can be found [here](https://github.com/tomjhagan/portfolio/blob/main/predicting-student-dropout/notebooks/eda_and_model.ipynb).
