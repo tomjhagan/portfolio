@@ -1,6 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, Keras, Tensorflow, SQL, AWS 
+* Programming & Tools: Python (pandas, scikit-learn, TensorFlow, keras, XGBoost), LangChain, HuggingFace, SQL, SAS, Excel
+* Techniques: NLP / LLMs, Time Series Forecasting, Clustering, Anomaly Detection, Classification, Regression
+* Platforms: AWS, Git, Databricks, Snowflake, Tableau, PowerBI
+
 
 ## Education
 * Data Science Career Accelerator, University of Cambridge (Jul '25)
