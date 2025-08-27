@@ -31,7 +31,7 @@ Employer project with the Bank of England. NLP task for analysing transcripts of
 ### Using time series analysis for sales and demand forecasting
 Using historical book sales data to forecast future demand and sales patterns. Performed data exploration and feature engineering to support time series analysis using ARIMA, XGBoost, LSTM and hybrid methods, and validated the models to ensure their accuracy.
 
-### Applying NLP for topic modelling and sentiment analysis from online reviews
+### [Applying NLP for topic modelling and sentiment analysis from online reviews](https://github.com/tomjhagan/portfolio/blob/main/customer-review-analysis)
 NLP task on TrustPilot and Google reviews for a large gym chain, including topic modelling using BerTopic, data visualisation, sentiment analysis and using large language models to inform strategic actions. 
 
 ### [Predicting student dropout with supervised learning](https://github.com/tomjhagan/portfolio/tree/main/predicting-student-dropout)
